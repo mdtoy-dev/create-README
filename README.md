@@ -1,8 +1,8 @@
 
-  # readme-generator
+  # create-README
 
   ## Description
-  generates readme
+  node app to generate readme file for user
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,20 +13,20 @@
   - [Questions](#questions)
   
   ## Installation
-  a
+  copy repository - npm install - node index.js
   
   ## Usage
-  a
+  give proper input related with instruction
   
   ## License
   This project is licensed under the MIT license.
   
   ## Contributing
-  a
+  you can reach me or just fork and update the code and create PR
   
   ## Tests
-  a
+  
   
   ## Questions
-  For questions about the project, please contact [@a](https://github.com/a) or email a.
+  For questions about the project, please contact [@mdtoy-dev](https://github.com/mdtoy-dev) or email berk.toy1@gmail.com.
   
